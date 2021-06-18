@@ -1,0 +1,27 @@
+Junk truck is An app designed to collect household biodegradable and non-biodegradable
+waste and move it to recycling industries/ferilizer plants.So, it is a one stop solution to get rid of the household waste at your convinince and 
+an effort to save the mother nature.Uing this app,one can get ridof the vegetable/fruit waste and waste water from RO purifiers as well as plastics in an environment friendly way.
+
+Login page - first step will be to sign-up. In sign-up you have to provide all the personal details.Once you are logged in, you will be able to see the homepage.
+
+home page:
+This page gives us an insight about what this app is all about. A brief detail about what Junk truck is all about and the different sections shows 
+what all wastes we are helping to recycle.
+
+Giveaway page:
+Once successfully signed in , this page is where we need to select the type of wste whether biodegradable or non-degradable.
+Once choice is made,the user will be naviated to the page to fill in additional details like types of biodegradable waste,weigth(which should be 5 to 50 kg)
+,time slot,frequency and detail address.After that when one clicks on submit button a message pops up about the order i.e. the order id. 
+
+Impact page:
+This page gives an overview of how the waste around us has negative impact on our envirmnemnt and how recycling/composting can make best out of the waste.
+To know more we can click on the Learn more buttons.
+
+Rewards page:
+After collection of handsome points ,one can purchase vouchers from popular e-commerce sites like amazon,flipkart etc. 
+If you have enough points, you will be able to redeem it, else please wait and keep donating more waste to earn more.
+
+Accounts Page:
+This has the personal inforamtion , which can be updated as per the need, then is the the orders summary which is about the pervious orders and lastly my 
+points, which gives the details regarding the points the user has earned by selling their waste.
+
